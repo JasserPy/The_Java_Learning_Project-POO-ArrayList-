@@ -1,18 +1,3 @@
-## Getting Started
+The project provides a wide range of examples covering topics such as basic syntax, loops, conditionals, arrays, object-oriented programming, and error handling. Each code snippet is written in a way that encourages hands-on learning, so users can grasp the logic and structure behind Java programs with ease.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Whether you're just starting out or you want to improve your Java skills, this project will serve as a solid foundation for mastering the language through active coding and clear examples.
